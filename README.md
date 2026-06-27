@@ -15,3 +15,10 @@ https://www.notion.so/Class-01-Intro-GenAI-LLMs-331893f0ead0801faf10cde239077308
 
 # course pdf complete list of topic being learned in the course.
 https://drive.google.com/file/d/1NGjG3wVadDw12Dk-WOQNkGSj2FUG2rUK/view
+
+# Intrested Classes
+
+## All classes with practicals
+- courses/kn-2026-modern-route/Full-Stack-GenAI-Bootcamp-1.0/Class-04-04-Apr-OHE-BOW-Intution-with-practical
+- courses/kn-2026-modern-route/Full-Stack-GenAI-Bootcamp-1.0/Class-05-05-Apr-TFIDF-Word2vec-Intution-with-practical
+- courses/kn-2026-modern-route/Full-Stack-GenAI-Bootcamp-1.0/Class-06-07-11-12-Apr-Word2vec-with-practical
