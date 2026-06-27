@@ -1,0 +1,9 @@
+projects:
+  kn-2026-modern-route:
+    path: .
+    url: https://github.com/kbhatiya999/kn-2026-modern-route.git
+  
+tasks:
+  hello:
+    desc: Print Hello World
+    cmd: echo "Hello World"
