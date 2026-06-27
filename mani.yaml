@@ -2,7 +2,11 @@ projects:
   kn-2026-modern-route:
     path: .
     url: https://github.com/kbhatiya999/kn-2026-modern-route.git
-  
+
+  Full-Stack-GenAI-Bootcamp-1.0:
+    path: Full-Stack-GenAI-Bootcamp-1.0
+    url: https://github.com/sunnysavita10/Full-Stack-GenAI-Bootcamp-1.0.git
+
 tasks:
   hello:
     desc: Print Hello World
